@@ -1,0 +1,5 @@
+model: "granite4.1:8b"
+temperature: 0.2
+context_length: 16384
+output_path: "C:/path/to/output"
+file_path: "C:/path/to/document.pdf"
